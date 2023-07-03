@@ -478,4 +478,4 @@ $RECYCLE.BIN/
 API/appsettings.json
 
 # SSL certs even local
-client/ssl/*
+client/ssl/*.pem
